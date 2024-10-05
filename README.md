@@ -1,7 +1,7 @@
-人脸识别系统by zzy
+人脸识别系统
 编程语言: Python
-库: OpenCV, dlib, numpy, pandas。
-功能要求 
+库: OpenCV, dlib, numpy, pandas
+功能 
 1. 摄像头控制:
 实时捕获摄像头图像。
 用户可以选择暂停或继续捕获。
